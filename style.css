@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color: aqua;
+}
+h1 {
+    color: antiquewhite
+}
+h2 {
+    border-style:dotted;
+    color: blueviolet;
+}
+h3 {
+    border-style:solid;
+}
